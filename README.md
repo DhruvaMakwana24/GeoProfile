@@ -46,8 +46,8 @@ Inspired by the global mapping aspect of the app.
 ## Tech Stack 🛠️
 
 ### **Frontend**
-- React.js / Angular ⚛️
-- CSS / TailwindCSS / Bootstrap for styling 🎨
+- React.js ⚛️
+- CSS / JavaScript/ Bootstrap for styling 🎨
 - External map services (e.g., Google Maps API, Mapbox) 🗺️
 
 ### **Backend**
@@ -108,7 +108,7 @@ Inspired by the global mapping aspect of the app.
 
 ---
 
-## Contributors 👨‍💻
+## Developed 👨‍💻
 - **Dhruva Makwana** - Developer
 
 ---
